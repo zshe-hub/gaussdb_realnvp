@@ -1,0 +1,9 @@
+# ignore large and temporary files
+*.tar.gz
+*.zip
+*.csv
+checkpoints_*/
+plots_16*/
+plots_16_noclipgrad*/
+__pycache__/
+*.ipynb_checkpoints
